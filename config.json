@@ -33,7 +33,7 @@
             "identifier": "GlaceYT",
             "password": "enteryourcustompass",
             "host": "180.188.226.76",
-            "port": 7019
+            "port": 7019,
             "secure": false
           }
     }, 
